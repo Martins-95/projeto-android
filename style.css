@@ -87,7 +87,7 @@ header > h1{
 }
 
 header > p{
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     margin: auto;
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
@@ -137,7 +137,7 @@ main img{
 
 main h1{
     font-weight: normal;
-    color: white;
+    color: var(--cor4);
     font-family: var(--fonte-android);
     font-size: 1.8em;
 }
